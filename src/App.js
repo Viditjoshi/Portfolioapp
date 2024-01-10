@@ -10,10 +10,10 @@ function App() {
   return (
     <>
       <Routes>
-          <Route path='/' element={<Home/>}/>
-          <Route path='/About' element={<About/>}/>
-          <Route path='/Project' element={<Project/>}/>
-          <Route path='/Contact' element={<Contact/>}/>
+          <Route path='https://viditjoshi.github.io/Portfolioapp/' element={<Home/>}/>
+          <Route path='https://viditjoshi.github.io/Portfolioapp//About' element={<About/>}/>
+          <Route path='https://viditjoshi.github.io/Portfolioapp//Project' element={<Project/>}/>
+          <Route path='https://viditjoshi.github.io/Portfolioapp//Contact' element={<Contact/>}/>
       </Routes>
       
     </>
