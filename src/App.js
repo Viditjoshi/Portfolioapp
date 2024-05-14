@@ -1,9 +1,9 @@
 import React from 'react';
 import "./index.css";
-import Home from './router/Home';
-import About from './router/About';
-import Project from './router/Project';
-import Contact from './router/Contact';
+import Home from './router/Home.js';
+import About from './router/About.js';
+import Project from './router/Project.js';
+import Contact from './router/Contact,js';
 import { Route, Routes } from 'react-router-dom';
 
 function App() {
